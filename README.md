@@ -1,1 +1,14 @@
 # mobile-ffb
+docs/
+├── PRD.md                          ← done
+├── ROLES_AND_PERMISSIONS.md        ← next
+├── INFORMATION_ARCHITECTURE.md
+├── MASTER_DATA_CATALOGUE.md
+├── DATABASE_SCHEMA.md
+├── API_CONTRACT.md
+├── OFFLINE_SYNC_SPEC.md
+├── SECURITY_SPEC.md
+├── MULTILINGUAL_SPEC.md
+├── SYSTEM_ARCHITECTURE.md
+├── INFRASTRUCTURE_DEPLOYMENT.md
+└── USER_STORIES.md
